@@ -1,0 +1,1 @@
+# iot-tuya-vwxr2-v1
