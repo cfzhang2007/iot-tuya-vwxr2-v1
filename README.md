@@ -5,11 +5,56 @@ For more information, please check Tuya Developer Website.
 1   Pet feeder 
 
 2   Application scenarios 
-     Breeding house pet has become a kind of fashion accompanied with the high speed development of city economy and the raised living standard step by stepã€‚
-May be due to the heavy workloadï¼Œunable to feed pets on timeã€‚A Controlling Method of Rationing Object Regularly for pet food. You can also be controlled by APP.You can also view the status by APP.
+     Breeding house pet has become a kind of fashion accompanied with the high speed development of city economy and the raised living standard step by step.
+May be due to the heavy workload,unnable to feed pets on time.A Controlling Method of Rationing Object Regularly for pet food. You can also be controlled by APP.You can also view the status by APP.
 
 3  Development plan
    Finish by March 25
-    1) Prepare materials before February 28
+    1) Prepare materials before  March 9
     2) March 1-20 embedded development, cloud development
     3) Overall commissioning before March 15.
+
+    
+Ò»¡¢·½°¸±êÌâ
+
+	ÖÇÄÜ³èÎïÎ¹Ê³Æ÷
+	
+
+¶ş¡¢·½°¸Ó¦ÓÃ³¡¾°
+
+	Ëæ×ÅÉç»áµÄ¿ìËÙ·¢Õ¹£¬ÎÒ¹ú¹úÃñÉú»îË®Æ½Ìá¸ß£¬ÎÒ¹úµÄ³èÎïÒµ·ÉËÙ·¢Õ¹£¬ËÇÑø³èÎïÒÑ¾­³ÉÎª
+ĞÂµÄÉú»îÏûÇ²·½Ê½£¬³èÎïµÄÎ¹Ñø¼°¿´»¤ÊÇÖ÷ÈËµÄ×î¹ØĞÄµÄÎÊÌâ£¬Ä¿Ç°³èÎïÎ¹ÑøÖ÷Òª»¹ÊÇ¿¿ÈË¹¤£¬ÈË
+ÃÇµÄ¹¤×÷Ñ§Ï°¶¼Ê®·Ö·±Ã¦£¬¾­³£²»ÄÜ¼°Ê±Í¶Î¹£¬³èÎïÎ¹Ê³³£³£»áÓĞÀ§ÈÅ£¬±¾Éè¼Æ¾ÍÊÇÖ÷ÒªÓÃÓÚ¼ÒÑø
+³èÎï£¬ÌØ±ğÊÇÃ¨¹·µÄ×Ô¶¯Î¹Ê³£¬¼õÉÙºó¹ËÖ®ÓÇ¡£
+
+
+Èı¡¢¾ßÌå¹¦ÄÜ
+
+	
+	1 ¶¨Ê±Î¹Ê³: ¶¨Ê± ¶¨Á¿Î¹Ê³
+	2 ÓïÒôº°Ê³: ²¥·ÅÖ÷ÈËº°Ê³Â¼Òô
+    3 ÊÖ»ú²Ù¿Ø: Í¨¹ıÊÖ»úAPP¿ÉÔ¶³Ì²é¿´Éè±¸×´Ì¬£¬¿ÉÖ¸Áî²Ù×÷Éè±¸¶¯×÷
+
+ËÄ¡¢¿ª·¢¼Æ»®
+
+	1 ×¼±¸Ó²¼ş²ÄÁÏ¼°Ïà¹Ø×ÊÁÏ
+		a.STM32×îĞ¡ÏµÍ³°å
+		b.12V¼õËÙµç»ú
+		c.Í¿Ñ»ÈıÃ÷ÖÎ¿ª·¢Ì×¼ş
+		d.ÎÂ¶È´«¸ĞÆ÷
+		f.´ÓÍ¿Ñ»¿ª·¢Æ½Ì¨»ñÈ¡Ïà¹Ø×ÊÁÏ
+
+	2 ±à³Ì¼Æ»®
+		a.Ê¹ÓÃSTM32ºËĞÄ°åÊµÏÖÍâÎ§Ó²¼şµÄ¿ØÖÆ
+		b.Ê¹ÓÃÍ¿Ñ»Ìá¹©µÄSDKµ÷ÊÔÁ¬½Óµ÷ÊÔÍ¨ĞÅÁ´Â·
+		c.Ê¹ÓÃÍ¿Ñ»APP¿ª·¢ÕßÄ£Ê½µ÷ÊÔºóÌ¨Êı¾İÊÕ·¢
+
+	3 Ê±¼ä¼Æ»®
+		a.3. 1-3.15 	Ó²¼ş¼°Ïà¹ØÎÄ¼ş×¼±¸
+		b.3.16-3.20		Èí¼ş¿ª·¢µ÷ÊÔ
+		c.3.21-3.25		ÑİÊ¾ÎÄ¼şÖÆ×÷
+
+
+
+
+    
